@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <div>
+            <img src="./Imagenes/Logo BTS.png" alt="Logo de BTS">
+        </div>
+        <nav>
+            <ul> 
+                <a href="https://twitter.com/bts_bighit"><li>Twitter</li></a>
+                <a href="https://www.instagram.com/bts.bighitofficial/?hl=es"><li>Instagram</li></a>
+                <a href="https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ"><li>Youtube</li></a>
+                <a href="https://www.facebook.com/bangtan.official/?locale=es_LA"><li>Facebook</li></a>
+                <a href="https://open.spotify.com/intl-es/artist/3Nrfpe0tUJi4K4DXYWgMUX"><li>Spotify</li></a>
+            </ul>
+        </nav>
+    </header>
+    
+    <div>
+        <img src="./Imagenes/Par IpurpleYou.jpg" alt="I Purple You Imagen">
+        <H1>I purple You</H1>
+        <p>I Purple You es una combinación de la frase 'Te amo' con el color morado. Este simboliza que a pesar del tiempo y la distancia, el idol siempre tendrá presente a sus fans.</p>    
+    </div>
+    <div>
+        <img src="./Imagenes/Par My Universe.avif" alt="My Universe Imagen">
+        <h1>>My universe - BTS ft. Coldplay</h1>
+        <p>En la noche, me echo y te miro. Cuando llega la mañana, te veo levantarte. Hay un paraíso que no pudieron capturar, ese infinito brillante dentro de tus ojos.</p>    
+    </div>
+    <div>
+        <img src="./Imagenes/Par Dynamite.avif" alt="Dynamite Imagen">
+        <h1>Dynamite - BTS</h1>
+        <p>Porque estoy en las estrellas esta noche. Así que mírame traer el fuego y encender la noche. Brillando por la ciudad con un poco de funk y soul. Así que lo encenderé como dinamita.</p>    
+    </div>
+    <div>
+        <img src="./Imagenes/Par BTS.avif" alt="BTS imagen">
+        <h1>Bangtan Sonyeondan</h1>
+        <p>Fue formado por BigHit en el año 2013. Su traducción al inglés es “Bulletproof Boy Scouts”, y en español “Chicos a prueba de balas”. También son conocidos como Bangtan Boys, y también se identifican simplemente como BTS, que lleva un concepto, expresado como “Beyond The Scene” o “Más allá de la escena”.</p>
+    </div>
+    <div> 
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d64699029.07161588!2d42.00984895!3d8.211268000000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca1adbde4193d%3A0xb66b720a6871a40a!2sHYBE%20HQ!5e0!3m2!1ses-419!2smx!4v1708479232370!5m2!1ses-419!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    <div>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=krj5eF41sJP1gbat&amp;list=PL5hrGMysD_GtowNO5JMIdDYG-DBXwfJQ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+    <footer>
+        <p>Hecho con amor por Diana M L. </p>
+    </footer>
+</body> 
+</html>

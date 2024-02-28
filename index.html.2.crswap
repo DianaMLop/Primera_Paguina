@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <div>
+            <img src="./Imagenes/BTS Logo.jpg" alt="Logo de BTS">
+        </div>
+        <nav>
+            <ul> 
+                <a href="https://twitter.com/bts_bighit"><li>Twitter</li></a>
+                <a href="https://www.instagram.com/bts.bighitofficial/?hl=es"><li>Instagram</li></a>
+                <a href="https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ"><li>Youtube</li></a>
+                <a href="https://www.facebook.com/bangtan.official/?locale=es_LA"><li>Facebook</li></a>
+                <a href="https://open.spotify.com/intl-es/artist/3Nrfpe0tUJi4K4DXYWgMUX"><li>Spotify</li></a>
+            </ul>
+        </nav>
+    </header>
+    <div class="contenedor"> 
+      <div>
+        <img src="./Imagenes/2cool4skool.jpg" alt="2 COOL 4 SKOOL Foto Album">
+        <H1>2 COOL 4 SKOOL</H1>
+        <p>El grupo de hip hop BTS ha lanzado su sencillo debut 2 COOL 4 SKOOL. Si bien se anuncia como un sencillo, el álbum cuenta con una impresionante duración de 27 minutos. Este es producto de la firme convicción y pasión de BTS de que los músicos de hip hop deben hacer oír su voz a través de sus álbumes. Cada miembro demostró su destreza musical al participar en la creación de la letra y la música de cada canción del álbum. </p>    
+      </div>
+      <div>
+        <img src="./Imagenes/ORUL82.jpg" alt=" O!RUL8,2? Foto album">
+        <h1> O!RUL8,2? (Oh! Are you late, too?)</h1>
+        <p> BTS ofrece el mensaje de que “debes encontrar tu felicidad y tu propia vida antes de que sea demasiado tarde”.
+            Letras que exponen brutalmente la realidad tal como es y ofrecen una audaz advertencia a un mundo que inflige desesperación. Los niños son criados como máquinas de estudio sin posibilidad de pensar en el futuro.
+            Un mundo donde los compañeros de clase no son amigos sino competidores que intentan pisotearse unos a otros. BTS canta sobre las heridas y la angustia que una vida tan desesperada ha dejado en los adolescentes de hoy.</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/fglrRHHSO7A?si=OLD77ogJmc3O4Tkt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   
+      </div>
+      <div>
+        <img src="./Imagenes/Af SKOOL LUV AFFAIR.jpg" alt="Foto Album SKOOL LUV AFFAIR">
+        <H1> SKOOL LUV AFFAIR</H1>
+        <p> Como sugiere el título, SKOOL LUV AFFAIR, el tema principal del álbum es el amor que florece en la escuela. Este álbum es la culminación del proyecto “School Trilogy” que analiza los temas de mayor interés para los adolescentes de su edad: los sueños, la felicidad y el amor. Una visión tan penetrante de los corazones y las mentes de los jóvenes llevó al apoyo absoluto que BTS ha recibido de los fans de su edad.</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/AihN7uMa__I?si=KzeByPAFTYpHVomf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      </div>
+
+    </div>
+    
+    <div>
+        <h1> Run BTS! </h1>
+        <P> Es el programa de variedades favorito del ARMY, ¿la razón? Los integrantes de Bangtan suelen mostrarse sin máscaras, además de que podemos disfrutar de la gran cercanía que existe entre ellos. En este programa vemos a los populares idols pasar varios momentos divertidos, desde contestar varias preguntas de acuerdo a su personalidad, hasta tenerlos haciendo aeroyoga o sumergirse en las aguas de un lago porque se resbalaron de una divertida, pero muy complicada, pista de obstáculos inflable.</P>
+    </div>
+    <div> 
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d64699029.07161588!2d42.00984895!3d8.211268000000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca1adbde4193d%3A0xb66b720a6871a40a!2sHYBE%20HQ!5e0!3m2!1ses-419!2smx!4v1708479232370!5m2!1ses-419!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    
+    <footer>
+        <p>Hecho con amor por Diana M L J. </p>
+    </footer>
+</body> 
+</html>
